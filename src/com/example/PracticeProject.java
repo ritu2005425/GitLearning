@@ -4,7 +4,7 @@ public class PracticeProject {
 
 	public static void main(String[] args) {
 
-		int a=10;
+		int b=20;
 
 		for(int i=0;i<100;i++)
 		{
