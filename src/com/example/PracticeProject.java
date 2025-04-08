@@ -3,11 +3,13 @@ package com.example;
 public class PracticeProject {
 
 	public static void main(String[] args) {
+								System.out.println("ritu");
+
 						System.out.println("xyz");
 
 		for(int i=0;i<100;i++)
 		{
-			if(i%2==0 && i>9)
+			if(i%2==0 && i<9)
 			{
 				System.out.println(i+1);
 			}
