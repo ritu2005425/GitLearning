@@ -14,10 +14,9 @@ public class PracticeProject {
 		}
 		for(int i=0;i<100;i++)
 		{
-			if(i%3!=0 && i%6==0)
-			{
+		
 				System.out.println((i+1)+"Here is the i's value");
-			}
+	
 		}
 		System.out.println("this is to learn pull command-->after you emter pull command this chnges will come inside local");
 	}
