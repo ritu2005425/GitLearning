@@ -6,6 +6,7 @@ public class PracticeProject {
 		
 		for(int i=0;i<100;i++)
 		{
+			System.out.println("akshay");
 			if(i%2!=0)
 			{
 				System.out.println(i);
