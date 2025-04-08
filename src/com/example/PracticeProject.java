@@ -6,9 +6,7 @@ public class PracticeProject {
 		
 		for(int i=0;i<100;i++)
 		{
-			System.out.println("this will cause conflict");
-			System.out.println("this will cause conflict");
-
+			System.out.println("this is second branch ");
 			if(i%2==0 && i>9)
 			{
 				System.out.println((i+1)+"Here is the i's value");
