@@ -8,7 +8,7 @@ public class PracticeProject {
 		{
 			if(i%2==0 && i>9)
 			{
-				System.out.println(i+"Here is the i's value");
+				System.out.println((i+1)+"Here is the i's value");
 			}
 		}
 
