@@ -14,7 +14,7 @@ public class PracticeProject {
 		}
 		for(int i=0;i<100;i++)
 		{
-			if(i%3!=0)
+			if(i%3!=0 && i%6==0)
 			{
 				System.out.println((i+1)+"Here is the i's value");
 			}
