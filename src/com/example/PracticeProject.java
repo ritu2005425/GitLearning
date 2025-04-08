@@ -9,7 +9,7 @@ public class PracticeProject {
 		{
 			if(i%2==0 && i>9)
 			{
-				System.out.println((i+1)+"Here is the i's value");
+				System.out.println(i+1);
 			}
 		}
 		for(int i=0;i<100;i++)
