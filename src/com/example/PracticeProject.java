@@ -11,6 +11,8 @@ public class PracticeProject {
 				System.out.println(i);
 			}
 		}
+
+		System.out.println("this is to learn pull command-->after you emter pull command this chnges will come inside local");
 	}
 
 }
