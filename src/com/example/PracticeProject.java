@@ -4,23 +4,8 @@ public class PracticeProject {
 
 	public static void main(String[] args) {
 
-		int b=20;
-
-		System.out.println("this is uissue branch");
-		for(int i=0;i<100;i++)
-		{
-			if(i%2==0 && i<9)
-			{
-				System.out.println(i+1);
-			}
-		}
-		for(int i=0;i<100;i++)
-		{
-		
-				System.out.println((i+1)+"Here is the i's value");
-	
-		}
-		System.out.println("this is to learn pull command-->after you emter pull command this chnges will come inside local");
+		int a=10;
+		System.out.println("hello this is from master");
 	}
 
 }
