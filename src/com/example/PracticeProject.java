@@ -8,7 +8,6 @@ public class PracticeProject {
 		int a=77;
 		System.out.println("HELLO SECOND");
 
-		
 		System.out.println("this is additional thing");
 	}
 
