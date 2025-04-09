@@ -4,8 +4,8 @@ public class PracticeProject {
 
 	public static void main(String[] args) {
 
-		int a=67;
-		System.out.println("hello second");
+		int a=7;
+		System.out.println("SECOND");
 
 		
 		System.out.println("this is additional thing");
