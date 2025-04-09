@@ -4,22 +4,10 @@ public class PracticeProject {
 
 	public static void main(String[] args) {
 
-		int b=20;
+		int a=100;
+		System.out.println("this is from secondbranch");
 
-		for(int i=0;i<100;i++)
-		{
-			if(i%2==0 && i<9)
-			{
-				System.out.println(i+1);
-			}
-		}
-		for(int i=0;i<100;i++)
-		{
-		
-				System.out.println((i+1)+"Here is the i's value");
 	
-		}
-		System.out.println("this is to learn pull command-->after you emter pull command this chnges will come inside local");
 	}
 
 }
