@@ -4,8 +4,8 @@ public class PracticeProject {
 
 	public static void main(String[] args) {
 
-		int a=80;
-		System.out.println("this is from secondbranch newly created");
+		int a=67;
+		System.out.println("hello second");
 	}
 
 }
